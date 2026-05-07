@@ -33,11 +33,11 @@ Leçons apprises   →   Ce que je ferais différemment
 
 ## Stack & Frameworks
 
-![ISO 27001](https://img.shields.io/badge/ISO_27001-005A8E?style=flat-square)
-![NIST CSF](https://img.shields.io/badge/NIST_CSF-1F618D?style=flat-square)
-![RGPD](https://img.shields.io/badge/RGPD-2471A3?style=flat-square)
-![TPRM](https://img.shields.io/badge/TPRM-154360?style=flat-square)
-![Risk Management](https://img.shields.io/badge/Risk_Management-1B4F72?style=flat-square)
+[![ISO 27001](https://img.shields.io/badge/ISO_27001-005A8E?style=flat-square)](https://www.iso.org/standard/27001)
+[![NIST CSF](https://img.shields.io/badge/NIST_CSF-1F618D?style=flat-square)](https://www.nist.gov/cyberframework)
+[![RGPD](https://img.shields.io/badge/RGPD-2471A3?style=flat-square)](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on)
+[![TPRM](https://img.shields.io/badge/TPRM-154360?style=flat-square)](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/third-party-risk-management)
+[![Risk Management](https://img.shields.io/badge/Risk_Management-1B4F72?style=flat-square)](https://www.iso.org/standard/65694.html)
 
 ---
 
