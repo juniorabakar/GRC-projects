@@ -51,5 +51,5 @@ le résultat, mais surtout **le raisonnement derrière chaque décision**.
 
 ## Auteur
 
-**Junior Abakar** — Consultant GRC Cybersécurité
+**Junior Abakar**
 [LinkedIn](https://www.linkedin.com/in/junior-abakar-551150265/) · [GitHub](https://github.com/juniorabakar) · juniorabakar07@gmail.com
