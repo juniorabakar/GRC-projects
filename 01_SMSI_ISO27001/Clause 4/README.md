@@ -10,6 +10,6 @@ Bien entendu, les choses à accomplir pour satisfaire cette clause sont d'identi
 
 **Le présent document rédigé en anglais conformément aux standards ISO 27001 et aux pratiques des cabinets de conseil en cybersécurité.**
 
-[![Aperçu](../assets/SMSI_Clause4_MedSecure_preview.png)](./SMSI_Clause4_MedSecure.pdf)
+[![Aperçu](../../assets/SMSI_Clause4_MedSecure_preview.png)](./SMSI_Clause4_MedSecure.pdf)
 
 📄 [Télécharger le document complet](./SMSI_Clause4_MedSecure.pdf)
