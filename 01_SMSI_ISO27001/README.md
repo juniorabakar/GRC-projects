@@ -3,13 +3,7 @@
 
 <div align="center">
 
-[![ISO 27001:2022](https://img.shields.io/badge/ISO_27001:2022-005A8E?style=flat-square)](https://www.iso27001security.com/)
-[![HDS](https://img.shields.io/badge/HDS-Données_de_santé-0d6efd?style=flat-square)](https://esante.gouv.fr/produits-services/hds)
-[![RGPD](https://img.shields.io/badge/RGPD-Catégorie_spéciale-2471A3?style=flat-square)](https://www.cnil.fr/fr/les-donnees-de-sante)
-[![ANSSI](https://img.shields.io/badge/ANSSI-Bonnes_pratiques-003189?style=flat-square)](https://www.ssi.gouv.fr/entreprise/bonnes-pratiques/)
 [![Statut](https://img.shields.io/badge/Statut-EN_COURS-e8a030?style=flat-square)]()
-
-> *Scénario fictif à des fins pédagogiques — toute ressemblance avec une organisation réelle est fortuite.*
 
 </div>
 
@@ -147,13 +141,19 @@ Remote work    →  7 collaborateurs en full-remote
 
 ---
 
-## Références
+## Ressources consultées
 
-[![ISO27k Community](https://img.shields.io/badge/ISO27k-Référence_communautaire-005A8E?style=flat-square)](https://www.iso27001security.com/)
-[![ANSSI](https://img.shields.io/badge/ANSSI-Guides_officiels-003189?style=flat-square)](https://www.ssi.gouv.fr/entreprise/bonnes-pratiques/)
-[![CNIL Santé](https://img.shields.io/badge/CNIL-Données_de_santé-003189?style=flat-square)](https://www.cnil.fr/fr/les-donnees-de-sante)
-[![ANS HDS](https://img.shields.io/badge/ANS-Certification_HDS-0d6efd?style=flat-square)](https://esante.gouv.fr/produits-services/hds)
+> Ces liens aident à mieux comprendre les normes officielles. **Ce ne sont pas les sites officiels, mais des ressources que je consulte régulièrement.**
 
+<div>
+
+[![ISO 27001:2022](https://img.shields.io/badge/Ressource-ISO_27001:2022-005A8E?style=flat-square)](https://www.iso27001security.com/)
+[![HDS](https://img.shields.io/badge/Ressource-HDS-0d6efd?style=flat-square)](https://esante.gouv.fr/produits-services/hds)
+[![RGPD](https://img.shields.io/badge/Ressource-RGPD_Santé-2471A3?style=flat-square)](https://www.cnil.fr/fr/les-donnees-de-sante)
+[![ANSSI](https://img.shields.io/badge/Ressource-ANSSI-003189?style=flat-square)](https://www.ssi.gouv.fr/entreprise/bonnes-pratiques/)
+
+
+</div>
 ---
 
 ## Leçons apprises
