@@ -88,7 +88,7 @@ Délai       — 6 mois avant signature du contrat
 
 | Clause | Livrable | Statut |
 |--------|----------|--------|
-| **Clause 4** — Contexte | Analyse contexte · Parties prenantes · Périmètre | `EN COURS` |
+| [**Clause 4** — Contexte](./Clause 4/)  | Analyse contexte · Parties prenantes · Périmètre | `EN COURS` |
 | **Clause 5** — Leadership | Politique SSI · Rôles & responsabilités | `À FAIRE` |
 | **Clause 6** — Planification | Registre des risques · PTR · SoA | `À FAIRE` |
 | **Clause 7** — Support | Documentation · Communication · Sensibilisation | `À FAIRE` |
