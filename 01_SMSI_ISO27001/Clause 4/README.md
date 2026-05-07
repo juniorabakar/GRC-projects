@@ -12,4 +12,4 @@ Bien entendu, les choses à accomplir pour satisfaire cette clause sont d'identi
 
 [![Aperçu](../../assets/SMSI_Clause4_MedSecure_preview.png)](./SMSI_Clause4_MedSecure.pdf)
 
-📄 [Télécharger le document complet](./SMSI_Clause4_MedSecure.pdf)
+📄 [Voir le document complet](./SMSI_Clause4_MedSecure.pdf)
