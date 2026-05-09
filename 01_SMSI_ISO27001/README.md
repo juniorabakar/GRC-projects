@@ -49,41 +49,6 @@ Délai       — 6 mois avant signature du contrat
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## Structure du projet
-
-```
-01_SMSI_ISO27001/
-│
-├── README.md                          ← Ce fichier
-│
-├── 01_contexte/
-│   ├── analyse_contexte.md            ← Clause 4 — Contexte de l'organisation
-│   ├── parties_prenantes.md           ← Parties intéressées & exigences
-│   └── perimetre_smsi.md              ← Déclaration de périmètre officielle
-│
-├── 02_evaluation_risques/
-│   ├── methodologie_risques.md        ← Approche d'évaluation des risques
-│   ├── registre_risques.md            ← Registre complet des risques identifiés
-│   └── plan_traitement.md             ← Plan de traitement des risques (PTR)
-│
-├── 03_declaration_applicabilite/
-│   └── soa.md                         ← Statement of Applicability (93 contrôles)
-│
-├── 04_politiques/
-│   ├── politique_ssi.md               ← Politique générale de sécurité SI
-│   ├── politique_acces.md             ← Contrôle d'accès & IAM
-│   ├── politique_cryptographie.md     ← Gestion des clés & chiffrement
-│   └── politique_incidents.md         ← Gestion des incidents de sécurité
-│
-└── 05_audit_interne/
-    ├── programme_audit.md             ← Programme d'audit interne
-    └── rapport_audit.md               ← Rapport d'audit — constats & non-conformités
-```
-
----
-
 ## Progression
 
 | Clause | Livrable | Statut |
@@ -150,7 +115,6 @@ Remote work    →  7 collaborateurs en full-remote
 [![ISO 27001:2022](https://img.shields.io/badge/Ressource-ISO_27001:2022-005A8E?style=flat-square)](https://www.iso27001security.com/)
 [![HDS](https://img.shields.io/badge/Ressource-HDS-0d6efd?style=flat-square)](https://esante.gouv.fr/produits-services/hds)
 [![RGPD](https://img.shields.io/badge/Ressource-RGPD_Santé-2471A3?style=flat-square)](https://www.cnil.fr/fr/les-donnees-de-sante)
-[![ANSSI](https://img.shields.io/badge/Ressource-ANSSI-003189?style=flat-square)](https://www.ssi.gouv.fr/entreprise/bonnes-pratiques/)
 
 
 </div>
@@ -158,7 +122,7 @@ Remote work    →  7 collaborateurs en full-remote
 
 ## Leçons apprises
 
-> *Section complétée en fin de projet.*
+> *Je compléterai cette partie lorsque je serai satisfait de mon travail et du SMSI.*
 
 ---
 
