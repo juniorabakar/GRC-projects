@@ -1,7 +1,7 @@
 # GRC-projects
 ![banner](https://raw.githubusercontent.com/juniorabakar/GRC-Projects/main/assets/grc_projects_banner.svg)
 
-> Ce repository regroupe mes projets pratiques en Gouvernance, Risques et Conformité (GRC), réalisés de manière autonome en dehors de toute formation.
+> Ce repository regroupe mes projets pratiques en Gouvernance, Risques et Conformité (GRC), réalisés de manière autonome en appliquant les connaissances acquises lors de ma formation.
 > Chaque projet est construit sur un scénario fictif inspiré de cas réels, avec une documentation complète : méthodologie, livrables et leçons apprises.
 
 ---
