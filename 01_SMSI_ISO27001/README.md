@@ -112,9 +112,9 @@ Remote work    →  7 collaborateurs en full-remote
 
 <div>
 
-[![ISO 27001:2022](https://img.shields.io/badge/Ressource-ISO_27001:2022-005A8E?style=flat-square)](https://www.iso27001security.com/)
+[![ISO 27001:2022](https://img.shields.io/badge/Ressource-ISO_27001:2022-005A8E?style=flat-square)](https://www.iso27001security.com/html/27001)
 [![HDS](https://img.shields.io/badge/Ressource-HDS-0d6efd?style=flat-square)](https://esante.gouv.fr/produits-services/hds)
-[![RGPD](https://img.shields.io/badge/Ressource-RGPD_Santé-2471A3?style=flat-square)](https://www.cnil.fr/fr/les-donnees-de-sante)
+[![RGPD](https://img.shields.io/badge/Ressource-RGPD_Santé-2471A3?style=flat-square)](https://www.cnil.fr/fr/quest-ce-ce-quune-donnee-de-sante)
 
 
 </div>
