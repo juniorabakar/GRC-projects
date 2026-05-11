@@ -13,4 +13,10 @@ Seules les clauses normatives seront donc traitées ici.
 
 [![Aperçu](../../assets/SMSI_Clause4_MedSecure_preview.png)](./SMSI_Clause4_MedSecure.pdf)
 
-📄 [Voir le document complet](./SMSI_Clause4_MedSecure.pdf)
+## Raisonnement
+On commence par l'évidence : la page de garde ci-dessus.
+
+Cette page a pour but principal le **contrôle de version**, indissociable du processus d'amélioration continue du SMSI. On y renseigne deux types d'informations :
+
+- **Informations temporelles** : version, date d'édition, date de dernière mise à jour, date de prochaine révision et fréquence de revue
+- **Informations organisationnelles** : auteur, approbateur du document et description synthétique de la version
