@@ -2,7 +2,6 @@
 
 Je commence donc mon analyse par la clause 4. J'ai décidé d'ignorer de mentionner les clauses informatives vu qu'elles ne font pas partie des audits de certification. Je ne prendrai donc en compte que les clauses normatives.
 
-Bien entendu, les choses à accomplir pour satisfaire cette clause sont d'identifier les problèmes internes et externes de l'organisation, leurs parties prenantes clés et de documenter le périmètre du SMSI.
 
 > **Note** : Le modèle de document utilisé a été conçu sur mesure — aucun template préexistant n'a été utilisé. La structure, la mise en forme et le contenu ont été entièrement produits dans le cadre de ce projet.
 
