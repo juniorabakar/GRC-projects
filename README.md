@@ -12,7 +12,7 @@
 |---|--------|--------|-------------|
 | 01 | [SMSI ISO 27001](./01_SMSI_ISO27001/) | `EN COURS` | Implémentation complète d'un SMSI from scratch pour une organisation fictive |
 | 02 | [NIST CSF Capstone](./02_NIST_CSF_Capstone/) | `EN COURS` | Programme de cybersécurité complet basé sur le NIST Cybersecurity Framework |
-| 03 | [TPRM](./03_TPRM/) | `EN COURS` | Évaluation des risques liés aux tiers — fournisseur SaaS fictif |
+| 03 | [TPRM](./03_TPRM/) | `EN COURS` | Évaluation des risques liés aux tiers : cas d'un fournisseur SaaS fictif |
 | 04 | [Incident Response Plan](./04_Incident_Response_Plan/) | `EN COURS` | Plan de réponse à incident pour une organisation fictive |
 
 ---
