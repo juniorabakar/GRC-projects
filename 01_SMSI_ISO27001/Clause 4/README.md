@@ -1,6 +1,8 @@
 # Clause 4 — Contexte de l'organisation
 
-Je commence donc mon analyse par la clause 4. J'ai décidé d'ignorer de mentionner les clauses informatives vu qu'elles ne font pas partie des audits de certification. Je ne prendrai donc en compte que les clauses normatives.
+Je commence mon analyse par la clause 4. J'ai délibérément écarté les clauses informatives de ce projet, car elles ne font pas partie du périmètre d'un audit de certification ISO 27001. Si elles vous intéressent, je vous invite à consulter <a href="https://www.iso.org/obp/ui/fr/#iso:std:iso-iec:27001:ed-3:v1:fr">la norme officielle</a> (disponible en anglais et en français).
+
+Seules les clauses normatives seront donc traitées ici.
 
 
 > **Note** : Le modèle de document utilisé a été conçu sur mesure — aucun template préexistant n'a été utilisé. La structure, la mise en forme et le contenu ont été entièrement produits dans le cadre de ce projet.
