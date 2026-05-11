@@ -7,7 +7,7 @@ Je commence donc mon analyse par la clause 4. J'ai décidé d'ignorer de mention
 
 ## Livrable
 
-**Le présent document est rédigé en anglais conformément aux standards ISO 27001 et aux pratiques des cabinets de conseil en cybersécurité.**
+**Le présent document est rédigé en anglais conformément aux standards ISO 27001 et aux pratiques des cabinets de conseil en cybersécurité. En voici un aperçu :**
 
 [![Aperçu](../../assets/SMSI_Clause4_MedSecure_preview.png)](./SMSI_Clause4_MedSecure.pdf)
 
