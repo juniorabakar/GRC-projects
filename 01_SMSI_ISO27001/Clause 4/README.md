@@ -1,4 +1,4 @@
-# Clause 4 — Contexte de l'organisation
+# Clause 4 : Contexte de l'organisation
 
 Je commence mon analyse par la clause 4. J'ai délibérément écarté les clauses informatives de ce projet, car elles ne font pas partie du périmètre d'un audit de certification ISO 27001. Si elles vous intéressent, je vous invite à consulter <a href="https://www.iso.org/obp/ui/fr/#iso:std:iso-iec:27001:ed-3:v1:fr">la norme officielle</a> (disponible en anglais et en français).
 
