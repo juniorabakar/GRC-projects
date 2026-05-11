@@ -53,13 +53,13 @@ Délai       — 6 mois avant signature du contrat
 
 | Clause | Livrable | Statut |
 |--------|----------|--------|
-| [**Clause 4** — Contexte](./Clause%204/) | Analyse contexte · Parties prenantes · Périmètre | `EN COURS` |
-| **Clause 5** — Leadership | Politique SSI · Rôles & responsabilités | `À FAIRE` |
-| **Clause 6** — Planification | Registre des risques · PTR · SoA | `À FAIRE` |
-| **Clause 7** — Support | Documentation · Communication · Sensibilisation | `À FAIRE` |
-| **Clause 8** — Fonctionnement | Politiques opérationnelles · Contrôles Annex A | `À FAIRE` |
-| **Clause 9** — Évaluation | Programme d'audit interne · Revue de direction | `À FAIRE` |
-| **Clause 10** — Amélioration | Non-conformités · Actions correctives | `À FAIRE` |
+| [**Clause 4** : Contexte](./Clause%204/) | Analyse contexte · Parties prenantes · Périmètre | `EN COURS` |
+| **Clause 5** : Leadership | Politique SSI · Rôles & responsabilités | `À FAIRE` |
+| **Clause 6** : Planification | Registre des risques · PTR · SoA | `À FAIRE` |
+| **Clause 7** : Support | Documentation · Communication · Sensibilisation | `À FAIRE` |
+| **Clause 8** : Fonctionnement | Politiques opérationnelles · Contrôles Annex A | `À FAIRE` |
+| **Clause 9** : Évaluation | Programme d'audit interne · Revue de direction | `À FAIRE` |
+| **Clause 10** : Amélioration | Non-conformités · Actions correctives | `À FAIRE` |
 
 ---
 
