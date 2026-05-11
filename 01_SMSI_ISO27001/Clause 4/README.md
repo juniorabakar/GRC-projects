@@ -16,7 +16,7 @@ Seules les clauses normatives seront donc traitées ici.
 ## Raisonnement
 On commence par l'évidence : la page de garde ci-dessus.
 
-Cette page a pour but principal le **contrôle de version**, indissociable du processus d'amélioration continue du SMSI. On y renseigne deux types d'informations :
+Cette page a pour but principal le **contrôle de version**, indissociable du processus d'amélioration continue du SMSI, et donc d'une importance capitale. On y renseigne deux types d'informations :
 
 - **Informations temporelles** : version, date d'édition, date de dernière mise à jour, date de prochaine révision et fréquence de revue
 - **Informations organisationnelles** : auteur, approbateur du document et description synthétique de la version
