@@ -26,4 +26,7 @@ Ensuite vient la section *Purpose* qui décrit l'objectif du document. Cette sec
 <img width="865" height="342" alt="image" src="https://github.com/user-attachments/assets/a5d14a41-b58d-4c22-a172-d52780809dc9" />
 
 
-> **Note: Les sections mentionnées ci-dessus sont indispensables à tout SMSI. Je les reproduirai donc systématiquement à chaque document se référant aux clauses.**
+> **Note: Les sections mentionnées ci-dessus sont indispensables à tout SMSI. Il s'agit en réalité d'une réponse directe aux exigences d'amélioration continue et de revue périodique. Je les reproduirai donc systématiquement à chaque document se référant aux clauses.**
+
+### Le périmètre
+Le périmètre doit être rédigé avec une spécificité croissante et délibérée. On commence alors par une déclaration générale sur la couverture de la **conception, du développement, de l'hébergement et de l'exploitation** de la plateforme SaaS de gestion des dossiers médicaux en cloud de MedSecure SAS, puis on affine tout cela en incluant les processus, les systèmes, le personnel, l'infrastructure et les informations directement liées à la délivrance du service.
