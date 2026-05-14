@@ -61,6 +61,8 @@ Délai       — 6 mois avant signature du contrat
 | **Clause 9** : Évaluation | Programme d'audit interne · Revue de direction | `À FAIRE` |
 | **Clause 10** : Amélioration | Non-conformités · Actions correctives | `À FAIRE` |
 
+> **Note** : L'ISO 27001 impose de satisfaire des clauses, mais ne dicte jamais combien de documents créer ni comment les organiser. J'ai donc fait mes propres choix d'organisation.
+
 ---
 
 ## Méthodologie
@@ -108,7 +110,7 @@ Remote work    →  7 collaborateurs en full-remote
 
 ## Ressources consultées
 
-> Ces liens aident à mieux comprendre les normes officielles. **Ce ne sont pas les sites officiels, mais des ressources que je consulte régulièrement.**
+> Ces liens aident à mieux comprendre les normes officielles. **Ce ne sont pas les sites officiels, mais des ressources que j'ai consulté personnellement.**
 
 <div>
 
