@@ -45,6 +45,7 @@ Ces projets s'inscrivent dans ma démarche de formation continue en GRC.
 Ils sont volontairement documentés en détail pour démontrer non seulement
 le résultat, mais surtout **le raisonnement derrière chaque décision**.
 
+> **Note : L'ISO 27001 impose de satisfaire des clauses, mais ne dicte jamais combien de documents créer ni comment les organiser. J'ai donc fait mes propres choix d'organisation.**
 ---
 
 ## Auteur
