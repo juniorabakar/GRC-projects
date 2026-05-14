@@ -20,3 +20,10 @@ Cette page a pour but principal le **contrôle de version**, indissociable du pr
 
 - **Informations temporelles** : version, date d'édition, date de dernière mise à jour, date de prochaine révision et fréquence de revue
 - **Informations organisationnelles** : auteur, approbateur du document et description synthétique de la version
+
+Ensuite vient la section *Purpose* qui décrit l'objectif du document. Cette section est utile car elle donne au lecteur une vision globale de ce qui se trouve dans le document avant d'en entamer la lecture :
+
+<img width="865" height="342" alt="image" src="https://github.com/user-attachments/assets/a5d14a41-b58d-4c22-a172-d52780809dc9" />
+
+
+> **Note: Les sections mentionnées ci-dessus sont indispensables à tout SMSI. Je les reproduirai donc systématiquement à chaque document se référant aux clauses.**
