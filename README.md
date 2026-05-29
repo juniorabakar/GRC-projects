@@ -41,9 +41,7 @@ Leçons apprises   →   Ce que je ferais différemment
 
 ## Contexte
 
-Ces projets s'inscrivent dans ma démarche de formation continue en GRC.
-Ils sont volontairement documentés en détail pour démontrer non seulement
-le résultat, mais surtout **le raisonnement derrière chaque décision**.
+Ces projets s'inspirent de ma formation continue en GRC.
 
 ---
 
