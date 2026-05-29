@@ -1,3 +1,4 @@
+<!-- Devrais-je continuer à mettre ma démarche réflexive ici? A méditer -->
 # Clause 4 : Contexte de l'organisation
 
 Je commence mon analyse par la clause 4. J'ai délibérément écarté les clauses informatives de ce projet, car elles ne font pas partie du périmètre d'un audit de certification ISO 27001. Si elles vous intéressent, je vous invite à consulter <a href="https://www.iso.org/obp/ui/fr/#iso:std:iso-iec:27001:ed-3:v1:fr">la norme officielle</a> (disponible en anglais et en français).
@@ -30,3 +31,5 @@ Ensuite vient la section *Purpose* qui décrit l'objectif du document. Cette sec
 
 ### Le périmètre
 Le périmètre doit être rédigé avec une spécificité croissante et délibérée. On commence alors par une déclaration générale sur la couverture de la **conception, du développement, de l'hébergement et de l'exploitation** de la plateforme SaaS de gestion des dossiers médicaux en cloud de MedSecure SAS, puis on affine tout cela en incluant les processus, les systèmes, le personnel, l'infrastructure et les informations directement liées à la délivrance du service.
+
+<!-- ICI JE CROIS QUE JE DEVRAIS NE PAS EXPOSER MA DEMARCHE REFLEXIVE. CA POURRAIT CREER PLUS D'INTERACTIONS AVEC DES PROFESSIONNELS POUR AVOIR DES RETOURS -->
