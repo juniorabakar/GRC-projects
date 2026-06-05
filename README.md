@@ -10,7 +10,7 @@
 | # | Projet | Statut | Description |
 |---|--------|--------|-------------|
 | 01 | [SMSI ISO 27001](./01_SMSI_ISO27001/) | `EN COURS` | Implémentation complète d'un SMSI from scratch pour une organisation fictive |
-| 02 | [NIST CSF Capstone](./02_NIST_CSF_Capstone/) | `EN COURS` | Programme de cybersécurité complet basé sur le NIST Cybersecurity Framework |
+| 02 | [NIST CSF](./02_NIST_CSF_Capstone/) | `EN COURS` | Programme de cybersécurité complet basé sur le NIST Cybersecurity Framework |
 
 ---
 
