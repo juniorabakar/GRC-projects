@@ -6,7 +6,7 @@ Je commence mon analyse par la clause 4. J'ai délibérément écarté les claus
 Seules les clauses normatives seront donc traitées ici dans le cadre de ce projet.
 
 
-> **Note** : La structure de ce document s'inspire du modèle proposé dans la formation GRC Mastery. Le contenu, l'analyse et la mise en forme ont été entièrement produits dans le cadre de ce projet personnel sur un scénario fictif original. La démarche analytique complète est disponible sur demande via [LinkedIn](https://www.linkedin.com/in/junior-abakar-551150265/).
+> **Note** : La structure de ce document s’inspire du modèle proposé dans la formation GRC Mastery. Le contenu, l’analyse et la mise en forme ont été entièrement réalisés dans le cadre de ce projet personnel, sur un scénario fictif original. La démarche analytique est disponible en me contactant, par exemple via [LinkedIn](https://www.linkedin.com/in/junior-abakar-551150265/).
 
 ## Livrable
 
