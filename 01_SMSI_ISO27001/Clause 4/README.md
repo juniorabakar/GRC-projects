@@ -12,6 +12,6 @@ Seules les clauses normatives seront donc traitées ici dans le cadre de ce proj
 
 **Le présent document est rédigé en anglais conformément aux standards ISO 27001 et aux pratiques des cabinets de conseil en cybersécurité.**
 
-<a href="https://github.com/juniorabakar/GRC-projects/blob/main/assets/SMSI_Clause4_MedSecure.pdf">
+<a href="https://github.com/juniorabakar/GRC-projects/blob/main/assets/SMSI_Clause4.pdf">
   <img src="https://github.com/juniorabakar/GRC-projects/blob/main/assets/SMSI_Clause4_MedSecure_preview.png" width="600" alt="Aperçu Clause 4"/>
 </a>
