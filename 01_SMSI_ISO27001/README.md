@@ -16,9 +16,9 @@
 Suite à un appel d'offres d'un groupement hospitalier public représentant un contrat de **2M€**, MedSecure se voit imposer une double exigence :
 
 ```
-Exigence 1 Certification ISO 27001:2022
-Exigence 2 Conformité HDS (Hébergeur de Données de Santé)
-Délai       6 mois avant signature du contrat
+Exigence 1 : Certification ISO 27001:2022
+Exigence 2 : Conformité HDS (Hébergeur de Données de Santé)
+Délai :  6 mois avant signature du contrat
 ```
 
 **Ma mission :** concevoir et documenter le SMSI complet, prêt pour l'audit de Stage 1.
