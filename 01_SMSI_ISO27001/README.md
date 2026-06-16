@@ -16,9 +16,9 @@
 Suite à un appel d'offres d'un groupement hospitalier public représentant un contrat de **2M€**, MedSecure se voit imposer une double exigence :
 
 ```
-Exigence 1 — Certification ISO 27001:2022
-Exigence 2 — Conformité HDS (Hébergeur de Données de Santé)
-Délai       — 6 mois avant signature du contrat
+Exigence 1 Certification ISO 27001:2022
+Exigence 2 Conformité HDS (Hébergeur de Données de Santé)
+Délai       6 mois avant signature du contrat
 ```
 
 **Ma mission :** concevoir et documenter le SMSI complet, prêt pour l'audit de Stage 1.
@@ -29,23 +29,23 @@ Délai       — 6 mois avant signature du contrat
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  PÉRIMÈTRE ISO 27001 — MedSecure SAS                         │
+│  PÉRIMÈTRE ISO 27001 MedSecure SAS                         │
 │                                                              │
 │  Systèmes couverts                                           │
 │  ├── Plateforme SaaS (application + API REST)                │
-│  ├── Infrastructure cloud (AWS Paris — eu-west-3)            │
-│  ├── Postes de travail (45 endpoints — Windows + macOS)      │
+│  ├── Infrastructure cloud (AWS Paris eu-west-3)            │
+│  ├── Postes de travail (45 endpoints Windows + macOS)      │
 │  └── Outils internes (Slack, Jira, GitHub, Google Workspace) │
 │                                                              │
 │  Données traitées                                            │
-│  ├── Données de santé (catégorie spéciale RGPD — Art. 9)     │
+│  ├── Données de santé (catégorie spéciale RGPD Art. 9)     │
 │  ├── Données d'identification patients                       │
 │  └── Données contractuelles clients (cliniques privées)      │
 │                                                              │
 │  Sites                                                       │
-│  ├── Paris — Siège social (30 personnes)                     │
-│  ├── Lyon — Bureau régional (8 personnes)                    │
-│  └── Remote — Équipes distribuées (7 personnes)              │
+│  ├── Paris Siège social (30 personnes)                     │
+│  ├── Lyon Bureau régional (8 personnes)                    │
+│  └── Remote Équipes distribuées (7 personnes)              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -82,7 +82,7 @@ Délai       — 6 mois avant signature du contrat
              ↓
   Rédaction des politiques de sécurité
              ↓
-  Audit interne — constats & non-conformités
+  Audit interne constats & non-conformités
 ```
 
 ---
@@ -97,7 +97,7 @@ RGPD Art. 9    →  Données de santé = catégorie spéciale
 
 HDS            →  Hébergement de données de santé
                   Certification complémentaire à l'ISO 27001
-                  Référentiel ANS — obligatoire pour héberger des DMP
+                  Référentiel ANS obligatoire pour héberger des DMP
 
 Cloud AWS      →  Responsabilité partagée (Shared Responsibility Model)
                   Contrôles Annex A adaptés au contexte cloud-native
@@ -130,7 +130,7 @@ Remote work    →  7 collaborateurs en full-remote
 
 <div align="center">
 
-**Junior Abakar** — Consultant GRC Cybersécurité
+**Junior Abakar** Consultant GRC Cybersécurité
 [LinkedIn](https://www.linkedin.com/in/junior-abakar-551150265/) · [GitHub](https://github.com/juniorabakar) · juniorabakar07@gmail.com
 
 </div>
