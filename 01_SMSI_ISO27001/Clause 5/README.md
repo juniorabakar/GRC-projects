@@ -33,7 +33,7 @@ et aux pratiques des cabinets de conseil en cybersécurité.**
   <img src="https://github.com/user-attachments/assets/d1858794-72cd-42e1-8e0e-ddab45f65ec8" width="600" alt="Aperçu Clause 5.1 et 5.2"/>
 </a>
 
-<a href="https://github.com/juniorabakar/GRC-projects/blob/main/assets/SMSI_Clause5.pdf">
+<a href="https://github.com/juniorabakar/GRC-projects/blob/main/assets/SMSI_Clause5_Roles_et_responsabilit%C3%A9s.pdf">
   <img src="https://github.com/user-attachments/assets/8996bc69-37e1-485b-8100-603920d6c229" width="600" alt="Aperçu Clause 5.3"/> 
 </a>
 
